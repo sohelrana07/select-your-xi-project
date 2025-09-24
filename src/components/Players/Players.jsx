@@ -43,7 +43,7 @@ const Players = ({
       <div className="mt-4">
         <div className="flex items-center">
           <span>
-            <i class="fa-solid fa-user text-xl text-gray-700"></i>
+            <i className="fa-solid fa-user text-xl text-gray-700"></i>
           </span>
           <h2 className="card-title ml-2">{player_name}</h2>
         </div>
